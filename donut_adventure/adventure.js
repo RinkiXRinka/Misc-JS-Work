@@ -52,3 +52,4 @@ class enemy{
 }
 //Creating Dougie the Donut
 const dougie = new hero('Dougie');
+console.log(dougie.name);
